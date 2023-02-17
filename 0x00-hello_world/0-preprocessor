@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILE
+gcc -E $CFIexport CFILE=0-main.c ; ./0-preprocessor
