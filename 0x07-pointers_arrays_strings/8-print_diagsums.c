@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "mainh"
 #include <stdio.h>
 /**
  * print_diagsums - prints diagonal summaries
